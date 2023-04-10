@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WilloClient:jar">
+    <output-path>$MCP_LOC$/eclipse/export/jar</output-path>
+    <root id="archive" name="WilloClient.jar">
+      <element id="module-output" name="Client" />
+    </root>
+  </artifact>
+</component>
